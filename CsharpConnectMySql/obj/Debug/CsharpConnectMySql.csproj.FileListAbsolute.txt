@@ -1,0 +1,7 @@
+c:\users\hoang\documents\visual studio 2017\Projects\CsharpConnectMySql\CsharpConnectMySql\obj\Debug\CsharpConnectMySql.csprojResolveAssemblyReference.cache
+c:\users\hoang\documents\visual studio 2017\Projects\CsharpConnectMySql\CsharpConnectMySql\bin\Debug\CsharpConnectMySql.exe.config
+c:\users\hoang\documents\visual studio 2017\Projects\CsharpConnectMySql\CsharpConnectMySql\bin\Debug\CsharpConnectMySql.exe
+c:\users\hoang\documents\visual studio 2017\Projects\CsharpConnectMySql\CsharpConnectMySql\bin\Debug\CsharpConnectMySql.pdb
+c:\users\hoang\documents\visual studio 2017\Projects\CsharpConnectMySql\CsharpConnectMySql\bin\Debug\MySql.Data.dll
+c:\users\hoang\documents\visual studio 2017\Projects\CsharpConnectMySql\CsharpConnectMySql\obj\Debug\CsharpConnectMySql.exe
+c:\users\hoang\documents\visual studio 2017\Projects\CsharpConnectMySql\CsharpConnectMySql\obj\Debug\CsharpConnectMySql.pdb
